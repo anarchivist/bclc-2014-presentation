@@ -30,16 +30,16 @@ The Digital Public Library of America brings together the riches of America’s 
 <div role="note" class="note">
 We describe DPLA in three ways:    
 First, DPLA is a portal that delivers students, teachers, scholars, and the public to incredible resources, wherever they may be in America.    
-Secondly, DPLA is a platform that enables xnew and transformative uses of our digitized cultural heritage.    
+Secondly, DPLA is a platform that enables new and transformative uses of our digitized cultural heritage.    
 Thirdly, DPLA is an advocate for a strong public option in the twenty-first century. The DPLA works, along with like-minded organizations and individuals, to ensure that a critical, open intellectual landscape remains vibrant and broad in the face of increasingly restrictive digital options. The DPLA seeks to multiply openly accessible materials to strengthen the public option that libraries represent in their communities.
 </div>
 
-# A <span class="glow">Portal</span> for Discovery {#takahashi}
+# A <span class="glow">Portal</span> for Discovery {.takahashi}
 ## [http://dp.la/](http://dp.la)
 
 ------------------
 
-![portal screenshot](images/portal-1.png)
+![http://dp.la/](images/portal-1.png)
 
 <div role="note" class="note">
 When you first visit DPLA's portal, you are given a variety of ways to find cultural materials. 
@@ -47,7 +47,7 @@ When you first visit DPLA's portal, you are given a variety of ways to find cult
 
 ------------------
 
-![portal search results](images/portal-2.png)
+![http://dp.la](images/portal-2.png)
 
 <div role="note" class="note">
 For example, you can perform simple searches, sort the results, and filter them by format, contributing institution or partner, date, language, location, or subject.
@@ -55,7 +55,7 @@ For example, you can perform simple searches, sort the results, and filter them 
 
 ------------------
 
-![portal - timeline](images/timeline.png)
+![http://dp.la/timeline](images/timeline.png)
 
 <div role="note" class="note">
 In addition to a familiar search paradigm, we provide a few additional interfaces that allow users to find and interact with collections in new ways.    
@@ -65,7 +65,7 @@ This can make it easier for some users to browse large result sets.
 
 ------------------
 
-![portal - bookshelf](images/bookshelf-1.png)
+![http://dp.la/bookshelf](images/bookshelf-1.png)
 
 <div role="note" class="note">
 The DPLA Bookshelf provides is yet another way that we provide an innovative mechanism for users to interact with materials available through our portal.    
@@ -77,7 +77,7 @@ The spine is colored with one of ten depths of blue to indicate how relevant the
 
 ------------------
 
-![portal - bookshelf 2](images/bookshelf-2.png)
+![http://dp.la/bookshelf](images/bookshelf-2.png)
 
 <div role="note" class="note">
 When a reader clicks on one of the books, additional information about it is displayed to its right. The reader can open the book with the click of a button.    
@@ -87,7 +87,7 @@ Clicking on a thumbnail displays the image and additional information about it.
 
 ------------------
 
-![portal - bookshelf 3](images/bookshelf-3.png)
+![http://dp.la/bookshelf](images/bookshelf-3.png)
 
 <div role="note" class="note">
 In addition, can explore further by clicking on one of the subjects under which the book has been categorized.    
@@ -96,7 +96,7 @@ This replaces the existing shelf with a shelf containing all the other books in 
 
 ------------------
 
-![portal - map](images/map-1.png)
+![http://dp.la/map](images/map-1.png)
 
 <div role="note" class="note">
 We also provide a map-based interface that allows users to identify the places associated with a given item.
@@ -105,12 +105,82 @@ I'll be talking about the map, how we augment the data we receive to produce thi
 
 ------------------
 
-![portal - exhibitions](images/exhibitions-1.png)
+![http://dp.la/exhibitions](images/exhibitions-1.png)
 
 <div role="note" class="note">
 In addition to these interfaces I've just discussed, DPLA also provides curated exhibitions that provide topical or historical context to some of the items to which we enable access.
 </div>
 
+# A <span class="glow">Platform</span> to Build On {.takahashi}
+
+<div role="note" class="note">
+The DPLA platform is one of the most important parts of our technical infrastructure.    
+It provides us as well as our users with the ability to search and retrieve metadata ingested from our service hubs and content hubs.     
+In fact, the Platform directly provides this functionality to the DPLA portal.    
+Most importantly, we provide free and open access to the Platform and the metadata available from within it.
+</div>
+
+# How is it free? {.takahashi}
+## ![CC0 License](images/cc-zero.png) {.incremental}
+
+<div role="note" class="note">
+The DPLA platform is one of the most important parts of our technical infrastructure.    
+It provides us as well as our users with the ability to search and retrieve metadata ingested from our service hubs and content hubs.     
+In fact, the Platform directly provides this functionality to the DPLA portal.    
+Most importantly, we provide free and open access to the Platform and the metadata available from within it.
+</div>
+
+# Platform Data
+
+![http://dp.la/info/developers/download/](images/platform-data.png)
+
+<div role="note" class="note">
+You can access our data in two ways.    
+First, you can visit our website, and download all the data.
+</div>
+
+# The DPLA API {.takahashi}
+## Access to millions of items, for any purpose
+
+<div role="note" class="note">
+But the DPLA is not just a database or a website.   
+It provides a set of tools that anyone can use to build their own application or interface on top of the DPLA’s aggregated data.    
+This toolset is called an Application Programming Interface (API).    
+APIs let computer programs talk to other computer programs, enabling application components to fit together like Lego blocks.     
+Right now, the API gets more hits than the portal!
+</div>
+
+------------------
+
+![http://dp.la/apps](images/app-library.png)
+
+<div role="note" class="note">
+We encourage to build applications and interfaces using our API.
+We also provide a public app library within which people can submit what they build to help with promotion.
+In addition to the apps listed here, apps submitted to the library include OpenPics, an iOS application for access to cultural heritage images, several map-based visualizations, and Serendip-o-matic, a tool that analyzes your research materials for keywords and finds related items on DPLA and other sources.
+</div>
+
+# A Strong <br/><span class="glow">Public Option</span> {.takahashi}
+
+<div role="note" class="note">
+For most of American history, the ability to access materials for free through public libraries has been a central part of our culture.   
+The DPLA works, along with like-minded organizations and individuals, to ensure that this 
+critical, open intellectual landscape remains vibrant and broad in the face of increasingly restrictive digital options.     
+The DPLA seeks to multiply openly accessible materials to strengthen the public option that libraries represent in their communities.
+</div>
+
+------------------
+
+![](images/knight-challenge.png)
+
+<div role="note" class="note">
+As an aggregator of metadata from many institutions, DPLA is in a unique position to help our partners recognize and manage data quality issues.   
+In October 2013, Europeana and the DPLA organized a first joint rights management workshop to explore this possibility in Boston, Massachusetts.    
+As a result of further discussions between the DPLA and Europeana, a small joint working group to explore the possibilities for concrete collaborations in more detail has been established.
+This important work will, above all, make rights clear to the end user and provide a framework for aggregators and our partners.    
+With the creation and standardization of actionable rights statements, users will know when a work is in the Public Domain, covered under a Creative Commons license or is Rights Restricted, among other possible labels.
+In addition, we recently submitted an entry to the Knight Foundation's Knight News Challenge to potentially support this work. 
+</div>
 # How is this possible? {.takahashi}
 
 <div role="note" class="note">
@@ -154,6 +224,62 @@ Each Service Hub also offers its state or regional partners a full menu of stand
 But, the DPLA is really made up of over 1,100 partners--institutions and organizations from across the US--that provide content to or are hosted by (or have some other relationship with) our Hubs. In turn, the Hubs serve up this content to DPLA. 
 </div>
 
+------------------
+
+![Comparison of partnership models](images/hub-comparison.png)
+
+<div role="note" class="note">
+WHY THE THE HUBS MODEL? Sustainability!     
+The image on the left shows that one-to-one partnerships can be resource intensive, requiring more staffing and processing power to ingest and update, and to continually manage the variety of individual metadata standards and quality and feed types.    
+The image on the right, however, represents that the Service and Content Hubs model supports the sharing of responsibilities for metadata management and feeds. It encourages collaboration, which in turn increases the likelihood of more complete and higher quality metadata and sustainable curation models. 
+</div>
+
+------------------
+
+[![The water cycle (credit: em*ly rose)](images/water-cycle.jpg)](http://www.flickr.com/photos/emily-rose/2401276791/)
+
+<div role="note" class="note">
+I like to think of us more like a water cycle, wherein all partners play an equally visible and valuable role in the content sharing process.
+</div>
+
+------------------
+
+![Rudolph Volk and Martin Klein in an old automobile, east of St. Peter, Minnesota, 1907?. Nicollet County Historical Society, Minnesota Digital Library](images/maxwell-1.png)
+
+<div role="note" class="note">
+For example, The Maxwell automobile company was formed in 1904 and ceased to exist in 1925.    
+You love Maxwell cars: How do you know that the image even exists?
+</div>
+
+------------------
+
+![](images/maxwell-2.png)
+
+<div role="note" class="note">
+This image is from the Nicollet County Historical Society in St. Peter, Minnesota.    
+You love Maxwell cars: How do you know that the image even exists?    
+NCHS doesn’t have a digital collection on their website.   
+You’ve never heard of Nicollet County or even St. Peter, since you don't live in Minnesota.
+</div>
+
+------------------
+
+![](images/maxwell-3.png)
+
+<div role="note" class="note">
+Luckily, NCHS works with the Minnesota Digital Library, which manages their digital collections. Luckily, MDL works with DPLA.    
+And, luckily for you, you’ve found DPLA and all of the Maxwell Automobile images available from six institutions across the US, including that one from the NCHS.
+</div>
+
+------------------
+
+![](images/maxwell-4.png)
+
+<div role="note" class="note">
+The luck continues--now you know about MDL because you’ve followed the link back to their site to see that awesome image.    
+And, maybe now you know that the NCHS exists.   
+And, just maybe you’ll visit their site, contact them, or spread the good word about how you found that image and where it comes from.
+</div>
 # Thank You!
 
 [\@anarchivist](https://twitter.com/anarchivist)

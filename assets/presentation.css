@@ -69,3 +69,6 @@ a {
 
 a:visited {
   color: #ffd53f; }
+
+figcaption {
+  margin: 0; }
