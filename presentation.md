@@ -17,7 +17,34 @@ To start, I would first like to ask you a few questions.
 How many of you have heard of the Digital Public Library of America before?     
 How many of you have used DPLA?    
 If you're not familiar with DPLA, that's alright - I do understand that I'm in Canada.
-The Digital Public Library of America brings together the riches of America’s libraries, archives, and museums, and makes them freely available to the world. It strives to contain the full breadth of human expression, from the written word, to works of art and culture, to records of America’s heritage, to the efforts and data of science. The DPLA aims to expand this crucial realm of openly available materials, and make those riches more easily discovered and more widely usable and used.
+The Digital Public Library of America brings together the riches of America’s libraries, archives, and museums, and makes them freely available to the world.    
+It strives to contain the full breadth of human expression, from the written word, to works of art and culture, to records of America’s heritage, to the efforts and data of science.   
+The "full range of human expression" means all kinds of stuff—cultural heritage materials such as images, sound files, moving images, journals, books, data sets, etc.    
+The DPLA aims to expand this crucial realm of openly available materials, and make those riches more easily discovered and more widely usable and used.   
+DPLA has a unique opportunity to connect people across the United States and its territories to connect with cultural heritage materials.
+In this presentation, I will be talking about some ways in which DPLA has provided a local connection or outreach, and ways in which we could improve that going forward.
+</div>
+
+
+# History {.takahashi}
+
+<div role="note" class="note">
+DPLA didn’t just appear one day as a small start-up non-profit.    
+Instead, it was the result of a two-year grassroots planning initiative that started in 2010.    
+The DPLA planning process began in October 2010 at a meeting in Cambridge, MA.   
+During this meeting, 40 leaders from libraries, foundations, academia, and technology projects agreed to work together to create "an open, distributed network of comprehensive online resources that would draw on the nation’s living heritage from libraries, universities, archives, and museums in order to educate, inform, and empower everyone in current and future ­generations."   
+That single sentence banded together hundreds toward a common goal of building a national digital library platform.
+</div>
+
+-----------------
+
+![](images/history.png)
+
+<div role="note" class="note">
+In December 2010, the Berkman Center for Internet &amp; Society at Harvard University convened leading experts in libraries, technology, law, and education to begin work on this ambitious project.    
+A two-year process of intense grassroots community organization, beginning in October 2011 and hosted at the Berkman Center under the aegis of the DPLA Secretariat, brought together hundreds of public and research librarians, innovators, digital humanists, and other volunteers—organized into six workstreams and led by a distinguished Steering Committee—helped to scope, design, and construct the DPLA.
+The culmination of all of this hard work was DPLA’s successful launch on April 18, 2013. While the actual in-person celebration event had to be canceled on account of the Boston Marathon bombing, DPLA’s site and services launched right on-time.    
+The April launch also marked the transition from the Harvard-based planning phase to what we call DPLA’s operational phase, or the start of DPLA as an independent 501c3 non-profit organization.
 </div>
 
 # The DPLA is ...
@@ -31,11 +58,20 @@ The Digital Public Library of America brings together the riches of America’s 
 We describe DPLA in three ways:    
 First, DPLA is a portal that delivers students, teachers, scholars, and the public to incredible resources, wherever they may be in America.    
 Secondly, DPLA is a platform that enables new and transformative uses of our digitized cultural heritage.    
-Thirdly, DPLA is an advocate for a strong public option in the twenty-first century. The DPLA works, along with like-minded organizations and individuals, to ensure that a critical, open intellectual landscape remains vibrant and broad in the face of increasingly restrictive digital options. The DPLA seeks to multiply openly accessible materials to strengthen the public option that libraries represent in their communities.
+Thirdly, DPLA is an advocate for a strong public option in the twenty-first century.    
 </div>
 
 # A <span class="glow">Portal</span> for Discovery {.takahashi}
 ## [http://dp.la/](http://dp.la)
+
+<div role="note" class="note">
+The DPLA portal is a tool for the discovery of content.     
+It currently contains records for 5.8 million digital objects that are open and freely accessible to all users anywhere.    
+When discussing the DPLA as a portal for discovery, we like to emphasize the "one-stop shop" idea.     
+This means that through one portal, you can access many collections with related content and see connections between that content in new ways.    
+A search for John Steinbeck might produce results from many different DPLA partners – taken together they represent a more robust collection of Steinbeck material accessed easily through a simple search.    
+This model almost means that a record from a small historical society has the same status in DPLA as a record from a large institution like the National Archives.
+</div>
 
 ------------------
 
@@ -124,10 +160,9 @@ Most importantly, we provide free and open access to the Platform and the metada
 ## ![CC0 License](images/cc-zero.png) {.incremental}
 
 <div role="note" class="note">
-The DPLA platform is one of the most important parts of our technical infrastructure.    
-It provides us as well as our users with the ability to search and retrieve metadata ingested from our service hubs and content hubs.     
-In fact, the Platform directly provides this functionality to the DPLA portal.    
-Most importantly, we provide free and open access to the Platform and the metadata available from within it.
+How is it free? *NEXT*    
+As part of the contribution process, we require all of our partners to license their metadata under the CC Zero license.   
+This CC license lets creators and owners of copyright-protected content to waive all copyright interests in their works and thereby place them as completely as possible in the public domain, so that others may freely build upon, enhance and reuse the works for any purposes without restrictions under copyright.
 </div>
 
 # Platform Data
@@ -175,8 +210,7 @@ In addition to the apps listed here, apps submitted to the library include OpenP
 
 <div role="note" class="note">
 For most of American history, the ability to access materials for free through public libraries has been a central part of our culture.   
-The DPLA works, along with like-minded organizations and individuals, to ensure that this 
-critical, open intellectual landscape remains vibrant and broad in the face of increasingly restrictive digital options.     
+The DPLA works with others to ensure that this critical, open intellectual landscape remains vibrant and broad in the face of increasingly restrictive digital options.   
 The DPLA seeks to multiply openly accessible materials to strengthen the public option that libraries represent in their communities.
 </div>
 
@@ -303,7 +337,8 @@ Specifically, the partners and hubs provide an important *local* connection.
 
 # Public Library Partnerships Project
 
-Funded by Bill and Melinda Gates Foundation    
+Funded by Bill and Melinda Gates Foundation
+
 Partnering with four service hubs:    
 
 * Digital Commonwealth
@@ -335,24 +370,146 @@ How can we improve outreach to new communities with this limitation, plus furthe
 # Community Reps {.takahashi}
 
 <div role="note" class="note">
-In September 2013, DPLA staff conceived of a program of community representatives, or volunteers that would help spread the word about DPLA.
-While DPLA was still in its planning phase, my colleagues found that our web forums and committees provided a forum for interested and motivated people to help out and give us feedback.
-After transitioning to its own organization, we wanted to provide a means for people to get involved. 
+In September 2013, DPLA staff conceived of a program of community representatives, or volunteers that would help spread the word about DPLA.    
+While DPLA was still in its planning phase, my colleagues found that our web forums and committees provided a forum for interested and motivated people to help out and give us feedback.    
 </div>
 
 # Responsibilities of Community Reps
 
-* Organize activities that promote DPLA using DPLA materials
-* Share materials and feedback from outreach efforts
-* Check in with DPLA staff about progress and share experiences
-* Be willing to participate in speaking or event opportunities as requested by DPLA
-* Represent DPLA formally as an acknowledged Rep on our website and informally through various networks
+Represent DPLA formally and informally
+
+Organize activities that promote DPLA using DPLA materials
+
+Share materials and feedback from outreach efforts
+
+Check in with DPLA staff about progress and share experiences
+
+Be willing to participate in speaking or event opportunities as requested by DPLA
+
+<div role="note" class="note">
+While Community Reps are volunteers, DPLA provides a small set of responsibilities that we use to help guide their efforts.   
+First, we expect Community Reps to represent DPLA both formally, through recognition on our website, and informally, through various networks or organizations. 
+Secondly, we ask them to organize at least one activity or event that help spread the word about DPLA as a portal, platform, or public option.   
+We provide Community Reps with materials such as presentations, flyers, and so forth, and supply them with DPLA merchandise to give away, such as t-shirts, stickers, and mugs.    
+Thirdly, we ask them to publicize their own efforts through means such as writing posts for the DPLA blog or aggregating notes or tweets from an event or activity.  
+We also expect Community Reps to check in with a DPLA staff member on a roughly quarterly basis.    
+Finally, we may ask Community Reps on occasion to give a presentation or participate in an event at our request.
+For example, if they are attending or live near a conference at which the organizers have asked for a DPLA presentation, we may ask them to take this on if DPLA staff are unable to participate.
+</div>
+
+# Initial Reps
+
+![<http://dp.la/info/get-involved/reps/community-reps-meet-the-reps/>](images/community-reps.png)
+
+<div role="note" class="note">
+Our first class of community reps was announced in January 2014.   
+We admitted approximately 100 people in the first class, and include representation from n K-12 education, public libraries, state libraries, municipal archives, public history and museums, publishing, media, genealogy, and many areas of higher education.    
+Proposed activities by our initial class of reps include creating materials to leverage DPLA as a teaching and learning resource, hackathons and other events targeted at software developers, and rural outreach to local public libraries.   
+Community Reps are assigned a contact that is a full-time DPLA employee, to whom they can direct any questions, and are given some basic training through 
+</div>
+
+----------------
+
+![<http://dp.la/info/get-involved/reps/community-reps-meet-the-reps/>](images/community-reps-map.png)
+
+<div role="note" class="note">
+Our first class of Community Reps comes from 36 out of 50 states and two countries outside of the US, and helps to extend our out reach significantly.    
+</div>
+
+# What's Next<br/>for Reps? {.takahashi}
+
+<div role="note" class="note">
+The Community Reps program is already showing some early signs of success, and we could not keep up with the enthusiasm shown by the community!   
+We have just announced recruitment for our second class of community reps, and we are looking to greatly extend our reach by searching for applicants from states and territories in which we have no reps.     
+Applications close on April 30th, and we look forward to further expanding our reach and geographic diversity.    
+Given some inital review of the Community Reps program, we have decided to more explicitly ask applicants to identify the communities to which they intend to provide outreach.    
+Doing so will allow us to have a better understanding of where our strengths and gaps may be, and can provide important information about where to undertake targeted outreach in the future, either through the Reps program or with DPLA staff.
+</div>
+
+------------------
+
+![](images/map-1.png)
+
+<div role="note" class="note">
+Finally, and perhaps the most obvious way in which DPLA provides a place based location is through our map.
+The map interface that allows users to see records organized by geolocation.    
+It is important to note that not all records in DPLA have geolocation information.   
+As the search box at the top indicates, only records with geolocation info appear on the map, and while that is a large portion of the DPLA’s collection, it is not all items related to a search.
+</div>
+
+------------------
+
+![](images/map-2.png)
+
+<div role="note" class="note">
+One very common misconception about the DPLA map is that it organizes records geographically by the institutions they come from.     
+For example, users of this search might assumed that we have 56 "baseball" items owned by Arizona institutions.    
+In reality, we have 56 items related to baseball that have been geolocated to Arizona – like images taken there.    
+These records do not necessarily come from Arizona partners. 
+</div>
+
+------------------
+
+![](images/map-3.png)
+
+<div role="note" class="note">
+As you zoom in, you can more clearly see the places depicted or represented in these items, based on the information.   
+But how do we get this information?
+</div>
+
+------------------
+
+![](images/metadata-flow.png)
+
+<div role="note" class="note">
+This goes back to the process by which we work with the metadata we receive.    
+Many of our providers include place names or other geographic headings in their metadata, and as part of the enrichment process we identify those headings.   
+We send the text of those headings to a geocoding service, which looks them up in a database, and returns a set of latitude and longitude coordinates for that place.    
+Once we have those coordinates, we send them back to another service that "reverse geocodes" them and provides us with a full place hierarchy, including country, state or province, region or county, and city, when available.     
+Usually, this works well, except when it doesn't.
+</div>
+
+------------------
+
+![The Kansas Problem](images/map-4.png)
+
+<div role="note" class="note">
+One example of this is what I call the Kansas problem.   
+If you look at the map, it suggests that there are nearly 500,000 records that are associated with Kansas.    
+However, very few (if any) of these items are about Kansas.
+So, why is this happening? Naturally, we discovered it was a bug in our process.
+The only spatial value being passed to us from the Hubs is "United States."     
+When we get ONLY that value, we're grabbing coordinates for the center of the country and then reverse identifying the location... as Kansas.
+We've had other problems as well, such as geocoding services misidentifying which place we were talking about.
+</div>
+
+# Lather, Rinse, Repeat {.takahashi}
+## 
+
+<div role="note" class="note">
+Improving our metadata enrichment process is a repetitive and iterative process, and requires feedback.    
+Problems like this are serious, however, as we really do want to provide our user community with a sense of confidence in what we do.    
+We are thinking about how to provide better transparency to our users about these processes given that our metadata enhancement processes evolve quickly to address changing needs, new partners, and other issues.    
+We also have been thinking about ways in which we can provide better user feedback mechanisms that will allow people to give us feedback about the data we present.    
+One possibility would be to provide more opportunities to include user generated content or commentary, either through the site itself or through an application that uses the DPLA Platform API.
+</div>
+
+# Responsibility {.takahashi}
+
+<div role="note" class="note">
+As a small, non-profit organization, we may not always have the subject or regional expertise about a topic to know whether the information is accurate.   
+However, as a national-level aggregator, DPLA has some degree of responsibility here.
+But what is that level of responsibility? We do have some degree of influence, but we cannot always control what our hubs and partners do.    
+How should we be gathering feedback from users about the accuracy of our data?    
+In addition, how should that feedback flow back to the hubs and the partners from which we received the data?   
+We do not yet have the solutions, but we're certainly looking for suggestions.
+</div>
 
 # Thank You!
 
 [\@anarchivist](https://twitter.com/anarchivist)
 
-<mark@matienzo.org>
+<mark@dp.la>
 
 <http://matienzo.org/presentations>
 
