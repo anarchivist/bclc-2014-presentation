@@ -152,6 +152,17 @@ Right now, the API gets more hits than the portal!
 
 ------------------
 
+![](images/metadata-flow.png)
+
+<div role="note" class="note">
+What powers the platform, the portal, and apps is our metadata within the platform.    
+DPLA harvests metadata in many different formats, such as Dublin Core, MODS, MARCXML, and others.
+As part of the process to bring in a partner's metadata, we map the incoming data to our Metadata Application Profile.
+In this process, we also enrich the data.
+</div>
+
+------------------
+
 ![http://dp.la/apps](images/app-library.png)
 
 <div role="note" class="note">
@@ -236,7 +247,7 @@ The image on the right, however, represents that the Service and Content Hubs mo
 
 ------------------
 
-[![The water cycle (credit: em*ly rose)](images/water-cycle.jpg)](http://www.flickr.com/photos/emily-rose/2401276791/)
+[![Hydrologic cycle](images/water-cycle.png)](https://commons.wikimedia.org/wiki/File:Ciclo_hidrol%C3%B3gico_da_%C3%A1gua.png)
 
 <div role="note" class="note">
 I like to think of us more like a water cycle, wherein all partners play an equally visible and valuable role in the content sharing process.
@@ -257,7 +268,6 @@ You love Maxwell cars: How do you know that the image even exists?
 
 <div role="note" class="note">
 This image is from the Nicollet County Historical Society in St. Peter, Minnesota.    
-You love Maxwell cars: How do you know that the image even exists?    
 NCHS doesn’t have a digital collection on their website.   
 You’ve never heard of Nicollet County or even St. Peter, since you don't live in Minnesota.
 </div>
@@ -280,6 +290,64 @@ The luck continues--now you know about MDL because you’ve followed the link ba
 And, maybe now you know that the NCHS exists.   
 And, just maybe you’ll visit their site, contact them, or spread the good word about how you found that image and where it comes from.
 </div>
+
+# Hubs as Local Connections {.takahashi}
+
+<div role="note" class="note">
+As you can see, the hubs model allows local collections to become more easily discoverable.    
+The hubs that assist us with bringing that content, as well as the partners that provide their hub with content, both serve a vital function.    
+The hubs help mediate the relationship between the partners and DPLA.   
+The partners are the local institutions with direct expertise and knowledge in the collections and the related subjects.    
+Specifically, the partners and hubs provide an important *local* connection.
+</div>
+
+# Public Library Partnerships Project
+
+Funded by Bill and Melinda Gates Foundation    
+Partnering with four service hubs:    
+
+* Digital Commonwealth
+* Digital Library of Georgia
+* Minnesota Digital Library
+* Mountain West Digital Library 
+
+<http://dp.la/info/about/projects/public-library-partnerships/>
+
+<div role="note" class="note">
+DPLA has another opportunity to help strengthen the local connection between service hubs and the areas they serve.   
+With the Public Library Partnerships Project, DPLA has the opportunity to provide public librarians in a small number of states with digital skills training.    
+This project also allows public librarians in libraries with special collections to connect with their local service hub, which can provide additional resources at the state or regional level.     
+The project will host 12 total workshops that will reach approximately 180 public librarians, teaching skills such as writing for the web, exhibition development, and understanding intellectual property rights.    
+At the conclusion of the project, we will release a public version of the training materials that others can reuse.
+Through PLPP, more public library content will appear in DPLA.   
+Although the quality and sustainability of relationships between DPLA, Hubs, and public libraries is the bigger project priority, we will also be happy to grow our number of public library partners and establish an even stronger local connection.
+</div>
+
+# Personal Connections {.takahashi}
+
+<div role="note" class="note">
+Of course, the hubs model allows us to do one kind of outreach.   
+In addition to undertaking outreach to librarians and archivists, DPLA should also provide outreach to the general public
+However, the DPLA staff is small, with seven current employees.
+How can we improve outreach to new communities with this limitation, plus further limitations on our travel budgets?
+</div>
+
+# Community Reps {.takahashi}
+
+<div role="note" class="note">
+In September 2013, DPLA staff conceived of a program of community representatives, or volunteers that would help spread the word about DPLA.
+While DPLA was still in its planning phase, my colleagues found that our web forums and committees provided a forum for interested and motivated people to help out and give us feedback.
+After transitioning to its own organization, we wanted to provide a means for people to get involved. 
+</div>
+
+# Responsibilities of Community Reps
+
+* Organize activities that promote DPLA using DPLA materials
+* Share materials and feedback from outreach efforts
+* Check in with DPLA staff about progress and share experiences
+* Be willing to participate in speaking or event opportunities as requested by DPLA
+* Represent DPLA formally as an acknowledged Rep on our website and informally through various networks
+
 # Thank You!
 
 [\@anarchivist](https://twitter.com/anarchivist)
