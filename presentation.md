@@ -5,13 +5,14 @@ Mark A. Matienzo
 Digital Public Library of America   
 @anarchivist
 
-British Columbia Library Association    
+British Columbia Library Conference    
 April 1, 2014
 
 Slides: <http://matienzo.org/presentations/>
 
 <div role="note" class="note">
 Hello! I'm Mark Matienzo, the Director of Technology for the Digital Public Library of America.    
+Thank you for giving me the opportunity to speak at BCLC and to travel to Vancouver.    
 </div>
 
 # What is DPLA? {.takahashi}
