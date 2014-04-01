@@ -88,7 +88,7 @@ It currently contains records for 5.8 million digital objects that are open and 
 When discussing the DPLA as a portal for discovery, we like to emphasize the "one-stop shop" idea.     
 This means that through one portal, you can access many collections with related content and see connections between that content in new ways.    
 A search for John Steinbeck might produce results from many different DPLA partners – taken together they represent a more robust collection of Steinbeck material accessed easily through a simple search.    
-This model almost means that a record from a small historical society has the same status in DPLA as a record from a large institution like the National Archives.
+This model means that a record from a small historical society can have the same status in DPLA as a record from a large institution like the National Archives.
 </div>
 
 ------------------
